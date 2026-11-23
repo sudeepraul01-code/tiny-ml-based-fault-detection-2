@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+models/artifacts/*
+!models/artifacts/.gitkeep
+edge_sim/logs/
+data/real/*
+!data/real/.gitkeep
