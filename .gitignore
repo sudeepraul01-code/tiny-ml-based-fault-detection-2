@@ -7,3 +7,4 @@ models/artifacts/*
 edge_sim/logs/
 data/real/*
 !data/real/.gitkeep
+.venv311/
